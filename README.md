@@ -1,32 +1,33 @@
 DBC Warriors Auto Farmer 🐉
 
-![AHK Version](https://www.autohotkey.com/)
+![AHK Version](https://img.shields.io/badge/AutoHotkey-v1.1+-brightgreen)
 
-O bot automático perfeito para farmar orbs no DBC Warriors!
+Bot automático para farm de orbs no DBC Warriors  
+📚 [Documentação AutoHotkey](https://www.autohotkey.com/)
 
-🔥 Features
-- ⚔️ Sistema de combate inteligente com double-hit
+---
+
+🔥 Funcionalidades
+- ⚔️ Sistema de combate com double-hit
 - 💰 Venda automática de orbs
-- 🔄 Loop infinito otimizado
-- ⚙️ Configuração fácil
+- 🔄 Loop contínuo otimizado
+- ⚙️ Fácil configuração
 
-🚀 Como Usar
-1. Baixe `DBC_Farm.ahk`
+🚀 Como usar
+1. Baixe [DBC_Farm.ahk](DBC_Farm.ahk)
 2. Execute (clique duplo)
 3. Controles:
    - 🟢 F12: Liga/desliga
    - ⚔️ Slot 1: Espada
    - 💎 Slot 2: Orbs
 
-```autohotkey
-; Configuração básica
+ Configuração
 slotEspada := 1    ; Slot da espada
 slotOrb := 2       ; Slot das orbs
-tempoKill := 2500  ; Tempo entre kills
+tempoKill := 2500  ; 2.5s entre kills
 
 📞 Suporte
-Entre em contato no Discord:
-👨💻 sample_69 (ID: 1007817336805404742)
+Discord: sample_69 (ID: 1007817336805404742)
 
-Feito com ❤️ por Luskamk
-⭐ Deixe sua estrela no repositório!
+❤️ Por Luskamk
+⭐ Deixe sua estrela!
