@@ -24,6 +24,7 @@ O bot automático perfeito para farmar orbs no DBC Warriors!
 slotEspada := 1    ; Slot da espada
 slotOrb := 2       ; Slot das orbs
 tempoKill := 2500  ; Tempo entre kills
+'''
 📞 Suporte
 Entre em contato no Discord:
 👨💻 sample_69 (ID: 1007817336805404742)
