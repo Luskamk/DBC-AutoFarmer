@@ -1,7 +1,6 @@
 DBC Warriors Auto Farmer 🐉
 
-![AHK Version](https://img.shields.io/badge/AutoHotkey-v1.1+-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![AHK Version](https://www.autohotkey.com/)
 
 O bot automático perfeito para farmar orbs no DBC Warriors!
 
