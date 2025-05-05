@@ -21,10 +21,6 @@ Bot automático para farm de orbs no DBC Warriors
    - ⚔️ Slot 1: Espada
    - 💎 Slot 2: Orbs
 
-; Configuração
-slotEspada := 1    ; Slot da espada
-slotOrb := 2       ; Slot das orbs
-tempoKill := 2500  ; 2.5s entre kills
 
 📞 Suporte
 Discord: sample_69 (ID: 1007817336805404742)
